@@ -1,7 +1,9 @@
 # ESP32-with-E32-LoRa-module
 <p align="center">
-  <img src="https://github.com/akarsh98/ESP32-with-E32-LoRa-module/blob/master/images/E32_2_F.JPG?raw=true" title="hover text">
+  <img src="https://github.com/akarsh98/ESP32-with-E32-LoRa-module/blob/master/images/E32_2_F.JPG?raw=true" title="hover text" rotate="90">
 </p>
+
+
 ###                                              FRONT SIDE IMAGE OF THE PCB
 
 Video tutorial : 
