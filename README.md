@@ -1,6 +1,6 @@
 # ESP32-with-E32-LoRa-module
 <p align="center">
-  <img src="https://github.com/akarsh98/ESP32-with-E32-LoRa-module/blob/master/images/E32_2_F.JPG?raw=true" title="hover text" rotate="90">
+  <img src="https://github.com/akarsh98/ESP32-with-E32-LoRa-module/blob/master/images/E32_2_F.JPG?raw=true" rotate="90" title="hover text">
 </p>
 
 
