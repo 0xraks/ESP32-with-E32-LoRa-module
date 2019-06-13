@@ -1,5 +1,5 @@
 # ESP32-with-E32-LoRa-module
-![alt text](https://github.com/akarsh98/E32-LORA-MODULE-BREAKOUT-BOARD/blob/master/images/E32_1_F.JPG?raw=true)
+![alt text](https://github.com/akarsh98/ESP32-with-E32-LoRa-module/blob/master/images/E32_2_F.JPG?raw=true)
 ###                                              FRONT SIDE IMAGE OF THE PCB
 
 Video tutorial : 
@@ -30,7 +30,7 @@ Do check them out if you need to get PCBs manufactured or assembled.
 
 ![alt text](https://github.com/akarsh98/Reyax-RYB080I-Bluetooth-module-with-ESP8266/blob/master/ss/pcbgogo.JPG?raw=true)
 
-![alt text](https://github.com/akarsh98/E32-LORA-MODULE-BREAKOUT-BOARD/blob/master/images/E32_1_B.JPG?raw=true)
+![alt text](https://github.com/akarsh98/ESP32-with-E32-LoRa-module/blob/master/images/E32_2_B.JPG?raw=true)
 ###                                              BACK SIDE IMAGE OF THE PCB
 
 ### This is the schematic for the project:
