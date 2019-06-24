@@ -9,13 +9,7 @@
 Video tutorial : 
 
 This PCB is a breakout board for the E32 LoRa module from Ebyte/Cdebyte.
-You can buy the module from [LCSC](https://lcsc.com/) from the following links:
 
-E32 100mW module: [HERE](https://bit.ly/2ZjbLo6)
-
-E32 1W module: [HERE](https://bit.ly/2R4xxct)
-
-Antenna: [HERE](https://bit.ly/2WBUk5A)
 
 ![alt text](https://github.com/akarsh98/ESP32-with-E32-LoRa-module/blob/master/images/e32.jpg?raw=true)
 
